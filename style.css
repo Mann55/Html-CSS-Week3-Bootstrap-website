@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+
+.custom-img {
+  height: 200px;
+}
+
+.footer {
+  background-color: #f8f9fa;
+  margin-top: 5em;
+}
